@@ -6,5 +6,5 @@
     <p>Make it easier and organized... Before you start, please read the Requirements below.</p>
   <div align="center">
     <h1>Requirements</h1>
-    <p>Node version 20.x, Discordjs latest and a cup of coffee.</p>
+    <p>Node version 20.x | Discordjs lastest version | A cup of coffee ☕</p>
   </div>
