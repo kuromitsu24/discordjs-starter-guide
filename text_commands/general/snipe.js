@@ -36,6 +36,6 @@ module.exports = {
   },
   name: 'snipe',
   description: 'Retrieve a last deleted messages in the current channel.',
-  aliases: ['ms'],
+  alias: ['ms'],
   developer: false
 };
