@@ -23,7 +23,7 @@ module.exports = {
     }
 
     let snipe_confirmed = `${' INFO '.black.bgWhite} Snipes ${'CONFIRMED'.green} from #${message.channel.name} (@${message.author.username})\n`;
-		let snipe_declined = `${' INFO '.black.bgWhite} Snipes ${'DECLINED'.red} from #${message.channel.name} (@${message.author.username})\n`;
+    let snipe_declined = `${' INFO '.black.bgWhite} Snipes ${'DECLINED'.red} from #${message.channel.name} (@${message.author.username})\n`;
 
     // try and catch block any erros
     try {
