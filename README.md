@@ -1,14 +1,10 @@
-# advanced-guide-discordjs
-To start all of this you need the following requirements:
-1. nodejs v22.x
-2. discord.js v14.x
-3. cup of coffee
+![image](https://imgur.com/MjUr4DI.png)
 
-# must-be-read
-Guide to creating Apps/Bots on Discord.
-- If you have related questions please contact me :>
-- I will try my best to respond to you.
-
-# contact
-- Discord: @kuromitsu24_
-- Email: kurokami.mitsuki24@gmail.com
+<div align="center">
+  <h1>Advanced Starter Guide</h1>
+  <p>Create your own discord bot with supported sub folder features: event, slash command, text command.<p>
+    <p>Make it easier and organized... Before you start, please read the Requirements below.</p>
+  <div align="center">
+    <h1>Requirements</h1>
+    <p>Node version 20.x, Discordjs latest and a cup of coffee.</p>
+  </div>
