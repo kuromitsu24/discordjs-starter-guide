@@ -1,0 +1,11 @@
+{
+  "prefix": ".",
+  "base_color": {
+    "main": "#eeeeee",
+    "secondary": "#ff00ff",
+    "error": "#ed4245"
+  },
+  "developer_ids": [
+    "USER_ID"
+  ]
+}
