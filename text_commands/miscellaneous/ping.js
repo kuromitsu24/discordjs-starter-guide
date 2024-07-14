@@ -9,6 +9,6 @@ module.exports = {
   },
   name: 'ping',
   description: 'Used to check API latency between Client and Discord interaction times in Milliseconds.',
-  aliases: ['ws'],
+  alias: ['ws'],
   developer: false
 };
