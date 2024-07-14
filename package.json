@@ -1,0 +1,27 @@
+{
+  "name": "your-app-name",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "discord.js",
+    "application"
+  ],
+  "author": {
+    "name": "insert-your-name-here",
+    "email": "insert-your-email-here",
+    "url": "https://your-site.com"
+  },
+  "license": "MIT",
+  "description": "app-description",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}
