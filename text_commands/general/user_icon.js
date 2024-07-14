@@ -21,6 +21,6 @@ module.exports = {
   },
   name: 'user_icon',
   description: 'Displays the icon of a user.',
-  aliases: ['ui', 'avatar'],
+  alias: ['ui', 'avatar'],
   developer: false
 };
